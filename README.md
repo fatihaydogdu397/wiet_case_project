@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/749bfb32-4bf7-4f53-b7b9-544f8cdb14a5)
+![image](https://github.com/user-attachments/assets/c338ad08-f3f6-45c2-96f3-36c5d8209583)
+
 # wiet_case_project
 
 A new Flutter project.
